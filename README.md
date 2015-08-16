@@ -1,2 +1,2 @@
 # store-inapp-mock
-Apple Store InApp mock service
+Better sandbox for your Apple Store in-app subscriptions
